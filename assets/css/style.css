@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color:black;
+}
+
+
+.titulo h1{
+    font-family: "raleway", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+}
+
+.principal img{
+    width: 100%;
+    padding: auto;   
+}
+
+
+
+.desc-selection{
+    display: block;
+    padding: 20px;
+}
+.descripcion{
+    display: block;
+    max-width: 1200px;
+    margin: 100px;
+}
+.descripcion .parrafo{
+  display: inline-block;
+  font-family: "raleway",sans-serif;
+  font-size: medium;
+  width: 500px;
+  vertical-align: top;
+  margin-top: 0px;
+  margin-right: 100px;
+  color: #ffffff;
+  opacity: 100%;
+  text-align: justify;
+
+}
+.descripcion img{
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    margin: 10px;
+    opacity: 100%;    
+}
+
+
+h2{
+    font-family: "raleway", sans-serif;   
+    text-align: center;
+    color: #ffffff;
+
+}
+.caracteristica{
+    background-color: #adabab;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+
+}
+.icono{
+    display: inline-block;
+    text-align: center;
+    margin: 10px 110px 100px 150px;
+  
+}
+
+.icono i {
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 100px;
+    height: 50px; 
+}
+
+.icono p{
+    color:#ffffff;
+    margin-top: px;
+    font-family: "raleway", sans-serif ;   
+}
+
+
+
+#fotos{
+    padding: auto;
+}
+.imagenes img{
+    display: inline;
+    width:400px;
+    height: 250px;
+    margin:10px;
+    margin-top: 60px;   
+}
+
+
+.footer{
+    background-color: #3d3c3c;
+    width: 100%;
+    height: 80px;
+    
+}
+.footer h3{
+    font-family: "relawey",sans-serif;
+    font-size: medium;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 30px;
+}
+a{
+    font-family: "relawey",sans-serif;
+    font-size: medium;
+    color: #ffffff;
+}
